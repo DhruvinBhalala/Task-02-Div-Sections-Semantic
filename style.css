@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html , body{
+    width: 100%;
+    height: 100%;
+}
+
+.raw{
+    width: 100%;
+    height: 120px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 10px 10px 0 10px;
+    padding: 14px;
+}
+
+P{
+    text-align: center;
+    padding: 8px;
+}
+
+.span{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(109, 109, 255);
+    border-radius: 10px;
+    position: relative;
+}
+
+.span h5{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.raw2{
+    width: 100%;
+    height: 86%;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 0 10px 10px 10px;
+    position: relative;
+}
+.raw2 h5{
+    text-align: center;
+    padding: 14px;
+}
+
+.spans{
+    display: flex;
+}
+
+.span4{
+    width: 30%;
+    height: 550px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: rgb(109, 109, 255);
+    margin: 10px 0 10px 10px;
+}
+
+.span4 h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.span5{
+    width: 70%;
+    height: 550px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: rgb(109, 109, 255);
+    margin: 10px 10px 10px 0;
+    position: relative;
+    padding: 10px;
+}
+
+.span5 h2{
+    text-align: center;
+    margin: 10px;
+}
+
+.raw3{
+    width: 100%;
+    height: 44%;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.raw4{
+    width: 100%;
+    height: 44%;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    position: relative;
+}
+
+.par-raw{
+    padding: 10px 10px 0 10px;
+}
+
+.par-raw h2{
+    text-align: center;
+
+}
+
+.para-span{
+    width: 100%;
+    height: 76%;
+    background-color:antiquewhite;
+    display: flex;
+    padding: 10px;
+}
+
+.para-span1{
+    width: 50%;
+    background-color:  rgb(109, 109, 255);
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.para-span2{
+    width: 50%;
+    background-color:  rgb(109, 109, 255);
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.para-span-2{
+    width: 100%;
+    height: 80%;
+    background-color:  rgb(109, 109, 255);
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
